@@ -1,0 +1,20 @@
+Levenshtein
+spacy
+pandas
+transformers
+torch
+sentence_transformers
+lexicalrichness
+# re
+# math
+# random
+numpy
+https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.7.1/en_core_web_lg-3.7.1.tar.gz#egg=en_core_web_lg
+nltk
+# time
+# datetime
+openai
+evaluate
+language_tool_python
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.30
